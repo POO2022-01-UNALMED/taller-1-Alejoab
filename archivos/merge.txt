@@ -2,3 +2,12 @@ Alejandro Alvarez Botero
 Edad: 19 años
 
 Mis expectativas con la matería se enfoncan en aumentar mis conocimientos en la programación y, con ello, empezar a comprender códigos más complejos. Adicionalmente, y no menos importante, uno de los objetivos es aprender cosas nuevas, mejorar mi experiencia programando y, con ello, tener más habilidades para un futuro laboral
+
+
+Luego de crear el archivo respuesta.txt dentro de la carpeta archivos, si se pudo hacer el commit, pues el github desktop, despues de crear este .txt, si reconocía los cambios en el repositorio local y, con ello, si permitía hacer el commit.
+
+Esto dado que "Git no hace un seguimiento de carpetas; sólo de archivos", por tanto "Si no hay archivos en un directorio, ese directorio no "existe" para git"
+Fuente: https://www.enmimaquinafunciona.com/pregunta/171442/git-elimina-carpetas-vacias 
+
+
+Es importante tener cuidado al momento de modificar un archivo, dado que pueden surgir cambios inesperados que pueden afectar el desarrollo normal del archivo. Además, esto también puede generar errores o conflictos al momento de hacer el commit y, como usualmente se trata de usuarios diferentes haciendo estas modificaciones, si no se tiene cuidado, se pueden hacer descartes de avances significativos, eliminar información importante, o, simplemente, conservar ambas modificaciones, dañando el desarrollo normal del archivo.
