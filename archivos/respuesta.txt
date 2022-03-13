@@ -1,0 +1,1 @@
+Aunque se creó la carpeta archivos en el repositorio local, no se pudo hacer el commit, dado que este no lo reconoce como un cambio
