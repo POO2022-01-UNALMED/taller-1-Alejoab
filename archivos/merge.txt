@@ -1,0 +1,4 @@
+Luego de crear el archivo respuesta.txt dentro de la carpeta archivos, si se pudo hacer el commit, pues el github desktop, despues de crear este .txt, si reconocía los cambios en el repositorio local y, con ello, si permitía hacer el commit.
+
+Esto dado que "Git no hace un seguimiento de carpetas; sólo de archivos", por tanto "Si no hay archivos en un directorio, ese directorio no "existe" para git"
+Fuente: https://www.enmimaquinafunciona.com/pregunta/171442/git-elimina-carpetas-vacias 
