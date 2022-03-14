@@ -1,3 +1,5 @@
 Ingrese su primer apellido: Alvarez
 
 Ingrese su segundo apellido: Botero
+
+El archivo no generó conflictos al momento de hacer las fusiones en las ramas, dado que no se está modificando una sola línea, sino que se están agregando mas elemento y no estamos modificando los existentes, por lo que no hay conflictos a resolver
